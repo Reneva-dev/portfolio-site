@@ -2,6 +2,7 @@ Portfolio Website
 This is a personal portfolio website that showcases my skills, experience, and projects. 
 The website is designed to be fully responsive and highlights my abilities in front-end development using HTML and Tailwind CSS.
 
+
 1. Features
    
 -Responsive Layout: The website adapts seamlessly to different screen sizes, including mobile and desktop.
@@ -12,14 +13,18 @@ The website is designed to be fully responsive and highlights my abilities in fr
 
 -Contact Section: Provides a way for visitors to get in touch with me via email and phone.
 
-2. Interactive Design: Uses modern design principles for a clean and professional look.
+-Interactive Design: Uses modern design principles for a clean and professional look.
 
-3. Technologies Used
+   
+
+2. Technologies Used
 -HTML: For structuring the content of the website.
 
 -Tailwind CSS: For utility-first responsive design.
 
 -Git: For version control.
+
+
 
 3. Installation
 -Clone the repository:
@@ -41,6 +46,8 @@ Copy
 Edit
 open index.html
 Or simply double-click the file to view it in your default web browser.
+
+
 
 4. Usage
 The portfolio website is ready for use, and you can customize the content such as your name, projects, and contact information.
@@ -72,10 +79,10 @@ Edit
 git push origin feature-name
 Create a pull request.
 
-6. License
+5. License
 This project is open source and available under the MIT License.
 
-7. Contact
+6. Contact
 Email: renevanewman7@gmail.com
 
 GitHub: github.com/Reneva-dev
