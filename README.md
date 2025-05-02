@@ -1,95 +1,132 @@
 LINK TO VIDEO: https://drive.google.com/file/d/1nBUA61QYGwiVxjyK7J-eQaHwF0a9_4HT/view?usp=sharing 
 
+# 💼 SDFPP Resume Project
 
-Portfolio Website
+Welcome to your first major **portfolio project** in the Software Development Program is a resume project (SDFPP). In this challenge, using a [Figma design file](https://www.figma.com/design/fM2tutgIH0k1SrNir4MVe3/SDF-Resume-Project-STUDENT-REFERENCE-FILE?node-id=0-1&t=yGSXI1yv4AgjKBvA-1) as reference, you’ll create your very own online resume — a personal website that shows off your skills, experience, and code style using **HTML and CSS**.
 
-This is a personal portfolio website that showcases my skills, experience, and projects. 
-The website is designed to be fully responsive and highlights my abilities in front-end development using HTML and Tailwind CSS.
+This is not just practice — this is something you can proudly include in your portfolio and share with future employers!
+
+---
+
+## 📌 Project Overview
+
+**Project Name:** Resume Project  
+**Difficulty:** Beginner–Intermediate  
+**Goal:** Replicate a Figma design of a resume site as accurately as possible using HTML and CSS  
+**Tools Required:** HTML5, CSS3, Git, GitHub  
+**Deployment:** Not required — site must run locally in browser  
+**Submission Includes:**
+- A link to your GitHub repo
+- A screen recording of your presentation (5–10 minutes)
+- A complete README (you’re reading it!)
+
+ 🎨Link to Figma Reference File: https://www.figma.com/design/fM2tutgIH0k1SrNir4MVe3/SDF-Resume-Project-STUDENT-REFERENCE-FILE?node-id=0-1&t=yGSXI1yv4AgjKBvA-1
+
+---
+
+## 🧠 What You'll Build
+
+You will build a fully responsive, Figma-matching resume site that includes the following sections:
+
+- Profile & Summary
+- Proficiency Bars
+- Skills Tags
+- Projects Grid
+- Education & Work History
+- Tools Section
+- Contact Footer
+
+---
+
+## 🧪 How You’ll Be Marked
+
+Your project will be assessed using **two components**:
+
+### ✅ 1. Code & Layout Marking 
+Each section of your resume site is scored based on:
+- Use of semantic HTML and correct structure
+- Accurate styling, spacing, typography, and colour matching the Figma
+- Pixel accuracy for layout and alignment
+- Responsive layout on mobile screens
+- Clean and well-structured code
+- Functional and visually polished components
+- Accessibility (e.g., alt text for images and icons)
+
+> A full breakdown of the scoring rubric is available on your Dashboard. Each feature is mapped to a clear user story and assigned a difficulty rating. Some features offer bonus points for pixel-perfection ✨
+
+### 🎙️ 2. Recorded Presentation 
+You must record a **5–10 minute** screen presentation of your project using Loom, OBS, or any screen recorder.
+
+You will be scored on:
+- How well you explain your code and decisions
+- Understanding and communication of the project brief
+- Visual walkthrough of your site and responsiveness
+- Presentation skills (confidence, clarity, visual aids)
+
+📎 [View the Presentation Template Here](https://github.com/CodeSpace-Academy/SDFPP-2025/blob/main/project%20guide/presentation_template.md)
+
+---
+
+## ✅ Submission Requirements
+
+To pass this project, you must submit the following:
+
+| Task | Required |
+|------|----------|
+| All required sections built | ✅ |
+| Semantic, readable HTML | ✅ |
+| Well-organised, responsive CSS | ✅ |
+| GitHub repo with clean commit history | ✅ |
+| README file with project info | ✅ |
+| 5–10 minute video presentation | ✅ |
+
+---
+
+## 🧰 Project Setup Instructions
+
+1. Clone your starter project folder (or create a new repo)
+2. Build your site using HTML and CSS
+3. Test it on different screen sizes
+4. Use Git to track your progress with frequent commits
+5. Record your presentation walkthrough
+6. Submit your GitHub link + recording link via the LMS
+
+---
+
+## 🎯 Extra Credit (Bonus Points)
+
+You can earn bonus marks for:
+- A **pixel-perfect build** that is accurate within 10px of the Figma
+- Thoughtful use of layout tools (Grid, Flexbox)
+- Polished hover states and accessibility improvements
+- High-quality code that’s modular and scalable
+
+---
+
+## 📩 Submit Your Project
+
+- ✅ Make sure the naming convention of your repo is correct
+- ✅ Include this README file in your repo  
+- ✅ Add your 5–10 min presentation video link to Google Drive (or similar) and share it with your coach 
+- ✅ Paste your video link in your README 
+- ✅ Push your project to your SDFPP GitHub repo
+- ✅ Submit your SDFPP GitHub repo link to the LMS
+
+---
+
+## 🙌 Good Luck!
+
+Take your time. Follow the walkthrough. Ask for help if you need it.
+
+You're not just building a resume site — you're building confidence, skills, and a real piece of your future portfolio.
+
+**You’ve got this. Let’s go! 🚀**
 
 
-1. Features
+
    
--Responsive Layout: The website adapts seamlessly to different screen sizes, including mobile and desktop.
-
- -Projects Section: Displays various projects with descriptions, technologies used, and responsibilities.
-
--Tools Section: Highlights the tools and technologies I'm proficient in, such as HTML, CSS, JavaScript, Git, GitHub, and more.
-
--Contact Section: Provides a way for visitors to get in touch with me via email and phone.
-
--Interactive Design: Uses modern design principles for a clean and professional look.
-
-   
-
-2. Technologies Used
--HTML: For structuring the content of the website.
-
--Tailwind CSS: For utility-first responsive design.
-
--Git: For version control.
 
 
 
-3. Installation
--Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/your-repository-name.git
-Navigate into the project directory:
-
-bash
-Copy
-Edit
-cd your-repository-name
-Open the index.html file in your browser:
-
-bash
-Copy
-Edit
-open index.html
-Or simply double-click the file to view it in your default web browser.
-
-
-
-4. Usage
-The portfolio website is ready for use, and you can customize the content such as your name, projects, and contact information.
-
-Feel free to edit the index.html file to further customize the look and feel.
-
-5. Contributing
-If you'd like to contribute to this project, please fork the repository and create a pull request. You can also open an issue for any bugs or suggestions.
-
--Fork the repository.
-
--Create a new branch for your changes:
-
-bash
-Copy
-Edit
-git checkout -b feature-name
-Make your changes and commit them:
-
-bash
-Copy
-Edit
-git commit -m "Add feature"
-Push to your forked repository:
-
-bash
-Copy
-Edit
-git push origin feature-name
-Create a pull request.
-
-5. License
-This project is open source and available under the MIT License.
-
-6. Contact
-Email: renevanewman7@gmail.com
-
-GitHub: github.com/Reneva-dev
-
-LinkedIn: linkedin.com/in/reneva-newman
 
