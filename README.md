@@ -3,6 +3,7 @@ This is a personal portfolio website that showcases my skills, experience, and p
 The website is designed to be fully responsive and highlights my abilities in front-end development using HTML and Tailwind CSS.
 
 1. Features
+   
 -Responsive Layout: The website adapts seamlessly to different screen sizes, including mobile and desktop.
 
  -Projects Section: Displays various projects with descriptions, technologies used, and responsibilities.
